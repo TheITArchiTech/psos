@@ -23,7 +23,7 @@ Jimmy Cesar, Benjamin Chance, Kallie Fergerson, Kimberly Holmes, Paul Jennas, Vi
 
 ### What's the problem?
 
-TBA
+The lack of transparent and accurate data available to assess police behavioral infractions means police reports can be falsified and contain other inaccuracies.
 
 ## The idea
 
